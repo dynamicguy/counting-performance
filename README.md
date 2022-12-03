@@ -12,11 +12,11 @@ This repo holds the code for comparing the performance of counting to 10 million
 	go build main.go
 	time ./main
 	
-## How to compile and run in Python
+## How to run in Python
 
 	time python main.py
 	
-## How to compile and run in PHP
+## How to run in PHP
 
 	time php main.php
 	
