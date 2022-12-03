@@ -25,7 +25,7 @@ This repo holds the code for comparing the performance of counting to 10 million
 
 	time php main.php
 
-## How to run in PHP
+## How to run in NodeJS
 
 	time node main.js
 
