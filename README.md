@@ -1,6 +1,6 @@
-# counting performance
+# Counting performance
 
-This repo holds the code for comparing the performance of counting to 10 million.
+This repo holds the code for comparing the performance of counting to 10 million for C++, Go and Python.
 
 ## How to compile and run in C++ 
 
